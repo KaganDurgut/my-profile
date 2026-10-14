@@ -1,0 +1,22 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Segoe UI';
+    line-height:1,5;
+    color:#ffffff;
+    background-color:#810000;
+}
+header{
+    padding:20px;
+    text-align:center;
+    color:aliceblue;
+    background-color:#ffffff;
+}
+th,td{
+    padding:8px;
+    border:1px solid #14213d;
+    background-color:rgb(0, 85, 141);
+}
